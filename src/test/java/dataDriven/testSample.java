@@ -14,6 +14,10 @@ public class testSample {
 		System.out.println("added comment to check for git");
 		System.out.println("line1");
 		System.out.println("line2");
+		//new lines added
+		System.out.println("line8");
+		System.out.println("Line9");
+		System.out.println("Line 10");
 	}
 
 }
