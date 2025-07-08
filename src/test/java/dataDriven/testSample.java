@@ -18,6 +18,9 @@ public class testSample {
 		System.out.println("line8");
 		System.out.println("Line9");
 		System.out.println("Line 10");
+		//new branch created in git repo
+		System.out.println("Added new branch develop");
+		System.out.println("Working on new branch - develop");
 	}
 
 }
