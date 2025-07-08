@@ -21,6 +21,9 @@ public class testSample {
 		//new branch created in git repo
 		System.out.println("Added new branch develop");
 		System.out.println("Working on new branch - develop");
+		
+		//second time add to new branch
+		System.out.println("Added code to new branch");
 	}
 
 }
